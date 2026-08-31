@@ -1,0 +1,5 @@
+campusflow-frontend/node_modules/
+campusflow-frontend/dist/
+campusflow-backend/venv/
+campusflow-backend/__pycache__/
+campusflow-backend/instance/*.db
